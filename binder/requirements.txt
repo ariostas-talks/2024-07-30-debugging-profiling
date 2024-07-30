@@ -1,0 +1,4 @@
+numpy==2.0.1
+jupyterlab-deck==0.2.0
+ipdb==0.13.13
+line-profiler==4.1.3
